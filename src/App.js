@@ -16,7 +16,7 @@ function App() {
         <Routes>
           
           
-          <Route path="/Api" element={
+          <Route path="/getTimeStories" element={
             <React.Fragment>
               
               <Api/>
